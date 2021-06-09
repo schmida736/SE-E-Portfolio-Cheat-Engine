@@ -31,5 +31,5 @@ This repository will contain the materials that were used and created during the
 9. Now activate your script in the cheat table.
 ![alt text](https://github.com/schmida736/SE-E-Portfolio-Cheat-Engine/blob/main/img/Screenshot%202021-06-09%20142524.png)
 
-10. I don't know what you would want 999 copper shortswords for, but hey, now you have 999 copper shortswords
+10. I don't know what you would want 999 copper shortswords for, but hey, now you have 999 copper shortswords(and every other item in your inventory)
 ![alt text](https://github.com/schmida736/SE-E-Portfolio-Cheat-Engine/blob/main/img/Screenshot%202021-06-09%20142456.png)
